@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "7/oMEcwuOMEWQf+ZSh4cv2WAfYfQEvrlpFsVB043QqYM3u5R+LmAcjk6UKtgmMCUfhDCAl0F4oiRijnQqK3/BA==",
+  "success": true,
+  "projectFilePath": "/Users/roxywilliams/Documents/GitHub/PuraVidaDelivery/PuraVidaDelivery/PuraVidaDelivery/PuraVidaDelivery/PuraVidaDelivery.csproj",
+  "expectedPackageFiles": [
+    "/Users/roxywilliams/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/roxywilliams/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
+    "/Users/roxywilliams/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/roxywilliams/.nuget/packages/xamarin.essentials/1.8.1/xamarin.essentials.1.8.1.nupkg.sha512",
+    "/Users/roxywilliams/.nuget/packages/xamarin.forms/5.0.0.2622/xamarin.forms.5.0.0.2622.nupkg.sha512"
+  ],
+  "logs": []
+}
