@@ -6,10 +6,10 @@
 
     <StackLayout VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand">
         <!-- Logo Image -->
-        <Image Source="Splash_Logo.png" x:Name="LogoImage" HeightRequest="350" WidthRequest="350" />
+        <Image Source="LogoApp.png" x:Name="LogoImage" HeightRequest="350" WidthRequest="350" />
 
         <!-- Progress Bar -->
-        <ProgressBar x:Name="ProgressBar" Progress="0" WidthRequest="200" HeightRequest="20" ProgressColor="#2A0770" />
+        <ProgressBar x:Name="ProgressBar" Progress="0" WidthRequest="200" HeightRequest="20" ProgressColor="#E6506E" />
     </StackLayout>
 
 </ContentPage>
