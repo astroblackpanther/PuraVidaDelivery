@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ShoppingList.StartPage">
+
+    <Grid VerticalOptions="FillAndExpand">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" /> <!-- Top section -->
+            <RowDefinition Height="*" />     <!-- Middle section with CarouselView -->
+            <RowDefinition Height="Auto" /> <!-- Bottom section for the button -->
+        </Grid.RowDefinitions>
+
+    <StackLayout VerticalOptions="FillAndExpand">
+        <!-- VistaCarousel para pasar -->
+        <!-- VistaCarousel para pasar -->
+<CarouselView x:Name="ImageCarousel"
+              VerticalOptions="FillAndExpand"
+              HorizontalOptions="FillAndExpand">
+    <CarouselView.ItemsSource>
+        <x:Array Type="{x:Type FileImageSource}">
+            <!-- Referencia de las imagenes por sus nombres en el folder de drawable-->
+            <FileImageSource File="Slide1.png" />
+            <FileImageSource File="Slide2.png" />
+            <FileImageSource File="Slide3.png" />
+
+        </x:Array>
+    </CarouselView.ItemsSource>
+    <CarouselView.ItemTemplate>
+        <DataTemplate>
+            <Image Source="{Binding}" Aspect="AspectFit"
+                   WidthRequest="100" HeightRequest="50"/>
+        </DataTemplate>
+    </CarouselView.ItemTemplate>
+</CarouselView>
+
+        <Button x:Name="ContinueButton" Text="Empieza tu compra" Clicked="OnContinueClicked"
+                BackgroundColor="#2A0770" TextColor="White"
+                BorderColor="#2A0770" BorderWidth="1" CornerRadius="10"
+                HorizontalOptions="CenterAndExpand" VerticalOptions="EndAndExpand"
+                Margin="0,20,0,10" />
+    </StackLayout>
+     </Grid>
+</ContentPage>
