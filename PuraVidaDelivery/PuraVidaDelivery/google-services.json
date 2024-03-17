@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "440969900412",
+    "project_id": "sistema-de-pedidos-5115c",
+    "storage_bucket": "sistema-de-pedidos-5115c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:440969900412:android:6ad0144a4134ace58bf4f9",
+        "android_client_info": {
+          "package_name": "pura_vida.Delivery2024"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxap4o1VA-_qa4-5Fe0FboeZfzmR-79Eg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

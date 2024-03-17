@@ -548,11 +548,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/roxywilliams/Documents/GitHub/PuraVidaDelivery/PuraVidaDelivery/PuraVidaDelivery/PuraVidaDelivery/PuraVidaDelivery.csproj",
+      "projectUniqueName": "/Users/roxywilliams/Documents/GitHub/PuraVidaDelivery1/PuraVidaDelivery/PuraVidaDelivery/PuraVidaDelivery.csproj",
       "projectName": "PuraVidaDelivery",
-      "projectPath": "/Users/roxywilliams/Documents/GitHub/PuraVidaDelivery/PuraVidaDelivery/PuraVidaDelivery/PuraVidaDelivery/PuraVidaDelivery.csproj",
+      "projectPath": "/Users/roxywilliams/Documents/GitHub/PuraVidaDelivery1/PuraVidaDelivery/PuraVidaDelivery/PuraVidaDelivery.csproj",
       "packagesPath": "/Users/roxywilliams/.nuget/packages/",
-      "outputPath": "/Users/roxywilliams/Documents/GitHub/PuraVidaDelivery/PuraVidaDelivery/PuraVidaDelivery/PuraVidaDelivery/obj/",
+      "outputPath": "/Users/roxywilliams/Documents/GitHub/PuraVidaDelivery1/PuraVidaDelivery/PuraVidaDelivery/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/roxywilliams/.config/NuGet/NuGet.Config"
@@ -604,7 +604,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "runtimeIdentifierGraphPath": "/Users/roxywilliams/Library/Caches/VisualStudio/17.0/MSBuild/27628_3/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/Users/roxywilliams/Library/Caches/VisualStudio/17.0/MSBuild/52025_3/RuntimeIdentifierGraph.json"
       }
     }
   }

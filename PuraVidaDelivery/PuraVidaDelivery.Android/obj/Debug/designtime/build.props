@@ -25,11 +25,11 @@ androidgeneratejnimarshalmethods=false
 os=unix
 androidincludedebugsymbols=true
 androidpackagenamingpolicy=lowercasecrc64
-_nugetassetstimestamp=638462127488417268
+_nugetassetstimestamp=638462183529143435
 typemapkind=strings-asm
 androidsupportedabis=arm64-v8a
 armeabi-v7a
 x86
 x86_64
 androidmanifestplaceholders=
-projectfullpath=/users/roxywilliams/documents/github/puravidadelivery/puravidadelivery/puravidadelivery/puravidadelivery.android/puravidadelivery.android.csproj
+projectfullpath=/users/roxywilliams/documents/github/puravidadelivery1/puravidadelivery/puravidadelivery.android/puravidadelivery.android.csproj

@@ -4267,11 +4267,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/roxywilliams/Documents/GitHub/PuraVidaDelivery/PuraVidaDelivery/PuraVidaDelivery/PuraVidaDelivery.Android/PuraVidaDelivery.Android.csproj",
+      "projectUniqueName": "/Users/roxywilliams/Documents/GitHub/PuraVidaDelivery1/PuraVidaDelivery/PuraVidaDelivery.Android/PuraVidaDelivery.Android.csproj",
       "projectName": "PuraVidaDelivery.Android",
-      "projectPath": "/Users/roxywilliams/Documents/GitHub/PuraVidaDelivery/PuraVidaDelivery/PuraVidaDelivery/PuraVidaDelivery.Android/PuraVidaDelivery.Android.csproj",
+      "projectPath": "/Users/roxywilliams/Documents/GitHub/PuraVidaDelivery1/PuraVidaDelivery/PuraVidaDelivery.Android/PuraVidaDelivery.Android.csproj",
       "packagesPath": "/Users/roxywilliams/.nuget/packages/",
-      "outputPath": "/Users/roxywilliams/Documents/GitHub/PuraVidaDelivery/PuraVidaDelivery/PuraVidaDelivery/PuraVidaDelivery.Android/obj/",
+      "outputPath": "/Users/roxywilliams/Documents/GitHub/PuraVidaDelivery1/PuraVidaDelivery/PuraVidaDelivery.Android/obj/",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
@@ -4286,8 +4286,8 @@
       "frameworks": {
         "monoandroid13.0": {
           "projectReferences": {
-            "/Users/roxywilliams/Documents/GitHub/PuraVidaDelivery/PuraVidaDelivery/PuraVidaDelivery/PuraVidaDelivery/PuraVidaDelivery.csproj": {
-              "projectPath": "/Users/roxywilliams/Documents/GitHub/PuraVidaDelivery/PuraVidaDelivery/PuraVidaDelivery/PuraVidaDelivery/PuraVidaDelivery.csproj"
+            "/Users/roxywilliams/Documents/GitHub/PuraVidaDelivery1/PuraVidaDelivery/PuraVidaDelivery/PuraVidaDelivery.csproj": {
+              "projectPath": "/Users/roxywilliams/Documents/GitHub/PuraVidaDelivery1/PuraVidaDelivery/PuraVidaDelivery/PuraVidaDelivery.csproj"
             }
           }
         }

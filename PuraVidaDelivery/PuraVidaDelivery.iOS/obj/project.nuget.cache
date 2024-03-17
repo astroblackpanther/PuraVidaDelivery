@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "FDZ0rO4vaFTDHaIhWWLI0wzhmKQyeHkbBjna0xrJdW8LMGijua/MF3+h6TYD6LgefOwmF8jshuRo9E0WVLLVOg==",
+  "dgSpecHash": "l7ox5EqSlGpaKHhn+/hI9e36v/qZnMuZh/mFSYdXGq3IBsGDnaXHF02Vv12JhW8SXSiH/qVbS28XiMrpDwmdfQ==",
   "success": true,
-  "projectFilePath": "/Users/roxywilliams/Documents/GitHub/PuraVidaDelivery/PuraVidaDelivery/PuraVidaDelivery/PuraVidaDelivery.iOS/PuraVidaDelivery.iOS.csproj",
+  "projectFilePath": "/Users/roxywilliams/Documents/GitHub/PuraVidaDelivery1/PuraVidaDelivery/PuraVidaDelivery.iOS/PuraVidaDelivery.iOS.csproj",
   "expectedPackageFiles": [
     "/Users/roxywilliams/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
-    "/Users/roxywilliams/.nuget/packages/xamarin.essentials/1.7.0/xamarin.essentials.1.7.0.nupkg.sha512",
-    "/Users/roxywilliams/.nuget/packages/xamarin.forms/5.0.0.2196/xamarin.forms.5.0.0.2196.nupkg.sha512"
+    "/Users/roxywilliams/.nuget/packages/xamarin.essentials/1.8.1/xamarin.essentials.1.8.1.nupkg.sha512",
+    "/Users/roxywilliams/.nuget/packages/xamarin.forms/5.0.0.2622/xamarin.forms.5.0.0.2622.nupkg.sha512"
   ],
   "logs": []
 }
