@@ -1,6 +1,43 @@
 ﻿<Properties StartupConfiguration="{18DC4A76-C0BF-4EB8-9900-AE42A9C641CC}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.ItemProperties.PuraVidaDelivery.iOS FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="PuraVidaDelivery/PuraVidaDelivery/SplashPage.xaml">
+    <Files>
+      <File FileName="PuraVidaDelivery/PuraVidaDelivery/App.xaml.cs" Line="1" Column="1" />
+      <File FileName="PuraVidaDelivery/PuraVidaDelivery/App.xaml" Line="1" Column="1" />
+      <File FileName="PuraVidaDelivery/PuraVidaDelivery/AssemblyInfo.cs" Line="11" Column="18" />
+      <File FileName="PuraVidaDelivery/PuraVidaDelivery/MainPage.xaml" Line="1" Column="1" />
+      <File FileName="PuraVidaDelivery/PuraVidaDelivery.Android/MainActivity.cs" Line="12" Column="6" />
+      <File FileName="PuraVidaDelivery/PuraVidaDelivery.iOS/Main.cs" Line="11" Column="6" />
+      <File FileName="PuraVidaDelivery/PuraVidaDelivery.iOS/AppDelegate.cs" Line="28" Column="1" />
+      <File FileName="PuraVidaDelivery/PuraVidaDelivery/Model/User.cs" Line="8" Column="40" />
+      <File FileName="PuraVidaDelivery/PuraVidaDelivery/SplashPage.xaml.cs" Line="5" Column="27" />
+      <File FileName="PuraVidaDelivery/PuraVidaDelivery/LoginPage.xaml" Line="1" Column="1" />
+      <File FileName="PuraVidaDelivery/PuraVidaDelivery/SplashPage.xaml" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PuraVidaDelivery" expanded="True">
+            <Node name="PuraVidaDelivery">
+              <Node name="Model" expanded="True" />
+              <Node name="SplashPage.xaml" expanded="True" selected="True" />
+            </Node>
+            <Node name="PuraVidaDelivery.Android" expanded="True" />
+            <Node name="PuraVidaDelivery.iOS">
+              <Node name="Resources" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="Android.nexus_6p_-_api_33" />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.ItemProperties.PuraVidaDelivery FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.PuraVidaDelivery.Android PreferredExecutionTarget="Android.nexus_6p_-_api_33" FirstBuild="True" />
 </Properties>
