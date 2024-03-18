@@ -1,15 +1,20 @@
-﻿<?xml version="1.0" encoding="UTF-8" ?>
-<ContentPage
-    xmlns="http://xamarin.com/schemas/2014/forms"
-    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-    x:Class="PuraVidaDelivery.SplashPage">
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="PuraVidaDelivery.SplashPage">
+    <ContentPage.Content>
+        <!-- Image Background -->
+        <Grid>
+            <Image Source="Splash_Image.jpeg" Aspect="AspectFill"/>
 
-    <StackLayout VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand">
-        <!-- Logo Image -->
-        <Image Source="LogoApp.png" x:Name="LogoImage" HeightRequest="350" WidthRequest="350" />
+            <!-- StackLayout to center content -->
+            <StackLayout VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand">
+                <!-- Place holder for logo or any other content -->
+            </StackLayout>
 
-        <!-- Progress Bar -->
-        <ProgressBar x:Name="ProgressBar" Progress="0" WidthRequest="200" HeightRequest="20" ProgressColor="#E6506E" />
-    </StackLayout>
-
+            <!-- Progress Bar -->
+            <ProgressBar x:Name="ProgressBar" Progress="0" HeightRequest="20" ProgressColor="#E6506E" 
+                         HorizontalOptions="Fill" VerticalOptions="End" Margin="20"/>
+        </Grid>
+    </ContentPage.Content>
 </ContentPage>

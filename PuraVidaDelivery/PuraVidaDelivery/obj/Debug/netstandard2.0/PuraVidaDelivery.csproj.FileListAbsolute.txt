@@ -9,14 +9,3 @@
 /Users/roxywilliams/Documents/GitHub/PuraVidaDelivery/PuraVidaDelivery/PuraVidaDelivery/PuraVidaDelivery/obj/Debug/netstandard2.0/PuraVidaDelivery.AssemblyInfoInputs.cache
 /Users/roxywilliams/Documents/GitHub/PuraVidaDelivery/PuraVidaDelivery/PuraVidaDelivery/PuraVidaDelivery/obj/Debug/netstandard2.0/PuraVidaDelivery.AssemblyInfo.cs
 /Users/roxywilliams/Documents/GitHub/PuraVidaDelivery/PuraVidaDelivery/PuraVidaDelivery/PuraVidaDelivery/obj/Debug/netstandard2.0/PuraVidaDelivery.csproj.CoreCompileInputs.cache
-/Users/roxywilliams/Documents/GitHub/PuraVidaDelivery1/PuraVidaDelivery/PuraVidaDelivery/obj/Debug/netstandard2.0/PuraVidaDelivery.csproj.AssemblyReference.cache
-/Users/roxywilliams/Documents/GitHub/PuraVidaDelivery1/PuraVidaDelivery/PuraVidaDelivery/obj/Debug/netstandard2.0/PuraVidaDelivery.GeneratedMSBuildEditorConfig.editorconfig
-/Users/roxywilliams/Documents/GitHub/PuraVidaDelivery1/PuraVidaDelivery/PuraVidaDelivery/obj/Debug/netstandard2.0/App.xaml.g.cs
-/Users/roxywilliams/Documents/GitHub/PuraVidaDelivery1/PuraVidaDelivery/PuraVidaDelivery/obj/Debug/netstandard2.0/LoginPage.xaml.g.cs
-/Users/roxywilliams/Documents/GitHub/PuraVidaDelivery1/PuraVidaDelivery/PuraVidaDelivery/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
-/Users/roxywilliams/Documents/GitHub/PuraVidaDelivery1/PuraVidaDelivery/PuraVidaDelivery/obj/Debug/netstandard2.0/RegisterPage.xaml.g.cs
-/Users/roxywilliams/Documents/GitHub/PuraVidaDelivery1/PuraVidaDelivery/PuraVidaDelivery/obj/Debug/netstandard2.0/SplashPage.xaml.g.cs
-/Users/roxywilliams/Documents/GitHub/PuraVidaDelivery1/PuraVidaDelivery/PuraVidaDelivery/obj/Debug/netstandard2.0/StartPage.xaml.g.cs
-/Users/roxywilliams/Documents/GitHub/PuraVidaDelivery1/PuraVidaDelivery/PuraVidaDelivery/obj/Debug/netstandard2.0/PuraVidaDelivery.AssemblyInfoInputs.cache
-/Users/roxywilliams/Documents/GitHub/PuraVidaDelivery1/PuraVidaDelivery/PuraVidaDelivery/obj/Debug/netstandard2.0/PuraVidaDelivery.AssemblyInfo.cs
-/Users/roxywilliams/Documents/GitHub/PuraVidaDelivery1/PuraVidaDelivery/PuraVidaDelivery/obj/Debug/netstandard2.0/PuraVidaDelivery.csproj.CoreCompileInputs.cache

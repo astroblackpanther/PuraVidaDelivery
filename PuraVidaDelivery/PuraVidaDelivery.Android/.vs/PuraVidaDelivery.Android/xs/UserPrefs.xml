@@ -1,19 +1,19 @@
 ﻿<Properties StartupConfiguration="{18DC4A76-C0BF-4EB8-9900-AE42A9C641CC}|Default">
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.Workbench>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="PuraVidaDelivery.Android" selected="True" />
+          <Node name="PuraVidaDelivery.Android" expanded="True" selected="True" />
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MultiItemStartupConfigurations />
-  <Xamarin.Addins.Core.Project ActiveDebugTarget="Android.nexus_6p_-_api_33" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.PuraVidaDelivery.Android PreferredExecutionTarget="Android.nexus_6p_-_api_33" />
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="Android.nexus_6p_-_api_33" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
 </Properties>

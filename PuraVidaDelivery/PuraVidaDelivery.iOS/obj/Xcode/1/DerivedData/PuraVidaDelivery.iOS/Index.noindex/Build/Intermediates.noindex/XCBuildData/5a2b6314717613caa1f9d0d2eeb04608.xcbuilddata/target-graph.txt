@@ -1,0 +1,3 @@
+Target dependency graph (2 targets)
+Target 'PuraVidaDelivery.iOS' in project 'PuraVidaDelivery.iOS' (no dependencies)
+Target 'PuraVidaDelivery.iOS' in project 'PuraVidaDelivery.iOS' (no dependencies)
