@@ -10,7 +10,11 @@ namespace PuraVidaDelivery
 		public SignUpPage ()
 		{
 			InitializeComponent ();
-		}
-	}
-}
 
+            // Hide the navigation bar
+            NavigationPage.SetHasNavigationBar(this, false);
+
+        }
+
+    }
+}

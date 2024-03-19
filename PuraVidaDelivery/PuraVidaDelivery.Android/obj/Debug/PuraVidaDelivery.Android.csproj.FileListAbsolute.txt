@@ -15,40 +15,41 @@
 /Users/roxywilliams/Documents/GitHub/PuraVidaDelivery1/PuraVidaDelivery/PuraVidaDelivery.Android/obj/Debug/res.flag
 /Users/roxywilliams/Documents/GitHub/PuraVidaDelivery1/PuraVidaDelivery/PuraVidaDelivery.Android/obj/Debug/lp/60/jl/files.cache
 /Users/roxywilliams/Documents/GitHub/PuraVidaDelivery1/PuraVidaDelivery/PuraVidaDelivery.Android/obj/Debug/lp/61/jl/files.cache
-/Users/roxywilliams/Documents/GitHub/PuraVidaDelivery1/PuraVidaDelivery/PuraVidaDelivery.Android/obj/Debug/lp/70/jl/files.cache
-/Users/roxywilliams/Documents/GitHub/PuraVidaDelivery1/PuraVidaDelivery/PuraVidaDelivery.Android/obj/Debug/lp/71/jl/files.cache
+/Users/roxywilliams/Documents/GitHub/PuraVidaDelivery1/PuraVidaDelivery/PuraVidaDelivery.Android/obj/Debug/lp/63/jl/files.cache
 /Users/roxywilliams/Documents/GitHub/PuraVidaDelivery1/PuraVidaDelivery/PuraVidaDelivery.Android/obj/Debug/lp/72/jl/files.cache
 /Users/roxywilliams/Documents/GitHub/PuraVidaDelivery1/PuraVidaDelivery/PuraVidaDelivery.Android/obj/Debug/lp/73/jl/files.cache
 /Users/roxywilliams/Documents/GitHub/PuraVidaDelivery1/PuraVidaDelivery/PuraVidaDelivery.Android/obj/Debug/lp/74/jl/files.cache
 /Users/roxywilliams/Documents/GitHub/PuraVidaDelivery1/PuraVidaDelivery/PuraVidaDelivery.Android/obj/Debug/lp/75/jl/files.cache
 /Users/roxywilliams/Documents/GitHub/PuraVidaDelivery1/PuraVidaDelivery/PuraVidaDelivery.Android/obj/Debug/lp/76/jl/files.cache
-/Users/roxywilliams/Documents/GitHub/PuraVidaDelivery1/PuraVidaDelivery/PuraVidaDelivery.Android/obj/Debug/lp/79/jl/files.cache
-/Users/roxywilliams/Documents/GitHub/PuraVidaDelivery1/PuraVidaDelivery/PuraVidaDelivery.Android/obj/Debug/lp/80/jl/files.cache
+/Users/roxywilliams/Documents/GitHub/PuraVidaDelivery1/PuraVidaDelivery/PuraVidaDelivery.Android/obj/Debug/lp/77/jl/files.cache
+/Users/roxywilliams/Documents/GitHub/PuraVidaDelivery1/PuraVidaDelivery/PuraVidaDelivery.Android/obj/Debug/lp/78/jl/files.cache
 /Users/roxywilliams/Documents/GitHub/PuraVidaDelivery1/PuraVidaDelivery/PuraVidaDelivery.Android/obj/Debug/lp/81/jl/files.cache
 /Users/roxywilliams/Documents/GitHub/PuraVidaDelivery1/PuraVidaDelivery/PuraVidaDelivery.Android/obj/Debug/lp/82/jl/files.cache
+/Users/roxywilliams/Documents/GitHub/PuraVidaDelivery1/PuraVidaDelivery/PuraVidaDelivery.Android/obj/Debug/lp/83/jl/files.cache
 /Users/roxywilliams/Documents/GitHub/PuraVidaDelivery1/PuraVidaDelivery/PuraVidaDelivery.Android/obj/Debug/lp/84/jl/files.cache
-/Users/roxywilliams/Documents/GitHub/PuraVidaDelivery1/PuraVidaDelivery/PuraVidaDelivery.Android/obj/Debug/lp/85/jl/files.cache
 /Users/roxywilliams/Documents/GitHub/PuraVidaDelivery1/PuraVidaDelivery/PuraVidaDelivery.Android/obj/Debug/lp/86/jl/files.cache
 /Users/roxywilliams/Documents/GitHub/PuraVidaDelivery1/PuraVidaDelivery/PuraVidaDelivery.Android/obj/Debug/lp/87/jl/files.cache
 /Users/roxywilliams/Documents/GitHub/PuraVidaDelivery1/PuraVidaDelivery/PuraVidaDelivery.Android/obj/Debug/lp/88/jl/files.cache
-/Users/roxywilliams/Documents/GitHub/PuraVidaDelivery1/PuraVidaDelivery/PuraVidaDelivery.Android/obj/Debug/lp/92/jl/files.cache
-/Users/roxywilliams/Documents/GitHub/PuraVidaDelivery1/PuraVidaDelivery/PuraVidaDelivery.Android/obj/Debug/lp/95/jl/files.cache
-/Users/roxywilliams/Documents/GitHub/PuraVidaDelivery1/PuraVidaDelivery/PuraVidaDelivery.Android/obj/Debug/lp/98/jl/files.cache
-/Users/roxywilliams/Documents/GitHub/PuraVidaDelivery1/PuraVidaDelivery/PuraVidaDelivery.Android/obj/Debug/lp/99/jl/files.cache
+/Users/roxywilliams/Documents/GitHub/PuraVidaDelivery1/PuraVidaDelivery/PuraVidaDelivery.Android/obj/Debug/lp/89/jl/files.cache
+/Users/roxywilliams/Documents/GitHub/PuraVidaDelivery1/PuraVidaDelivery/PuraVidaDelivery.Android/obj/Debug/lp/90/jl/files.cache
+/Users/roxywilliams/Documents/GitHub/PuraVidaDelivery1/PuraVidaDelivery/PuraVidaDelivery.Android/obj/Debug/lp/94/jl/files.cache
+/Users/roxywilliams/Documents/GitHub/PuraVidaDelivery1/PuraVidaDelivery/PuraVidaDelivery.Android/obj/Debug/lp/97/jl/files.cache
+/Users/roxywilliams/Documents/GitHub/PuraVidaDelivery1/PuraVidaDelivery/PuraVidaDelivery.Android/obj/Debug/lp/100/jl/files.cache
 /Users/roxywilliams/Documents/GitHub/PuraVidaDelivery1/PuraVidaDelivery/PuraVidaDelivery.Android/obj/Debug/lp/101/jl/files.cache
 /Users/roxywilliams/Documents/GitHub/PuraVidaDelivery1/PuraVidaDelivery/PuraVidaDelivery.Android/obj/Debug/lp/103/jl/files.cache
-/Users/roxywilliams/Documents/GitHub/PuraVidaDelivery1/PuraVidaDelivery/PuraVidaDelivery.Android/obj/Debug/lp/104/jl/files.cache
 /Users/roxywilliams/Documents/GitHub/PuraVidaDelivery1/PuraVidaDelivery/PuraVidaDelivery.Android/obj/Debug/lp/105/jl/files.cache
 /Users/roxywilliams/Documents/GitHub/PuraVidaDelivery1/PuraVidaDelivery/PuraVidaDelivery.Android/obj/Debug/lp/106/jl/files.cache
 /Users/roxywilliams/Documents/GitHub/PuraVidaDelivery1/PuraVidaDelivery/PuraVidaDelivery.Android/obj/Debug/lp/107/jl/files.cache
 /Users/roxywilliams/Documents/GitHub/PuraVidaDelivery1/PuraVidaDelivery/PuraVidaDelivery.Android/obj/Debug/lp/108/jl/files.cache
 /Users/roxywilliams/Documents/GitHub/PuraVidaDelivery1/PuraVidaDelivery/PuraVidaDelivery.Android/obj/Debug/lp/109/jl/files.cache
+/Users/roxywilliams/Documents/GitHub/PuraVidaDelivery1/PuraVidaDelivery/PuraVidaDelivery.Android/obj/Debug/lp/110/jl/files.cache
 /Users/roxywilliams/Documents/GitHub/PuraVidaDelivery1/PuraVidaDelivery/PuraVidaDelivery.Android/obj/Debug/lp/111/jl/files.cache
-/Users/roxywilliams/Documents/GitHub/PuraVidaDelivery1/PuraVidaDelivery/PuraVidaDelivery.Android/obj/Debug/lp/112/jl/files.cache
 /Users/roxywilliams/Documents/GitHub/PuraVidaDelivery1/PuraVidaDelivery/PuraVidaDelivery.Android/obj/Debug/lp/113/jl/files.cache
 /Users/roxywilliams/Documents/GitHub/PuraVidaDelivery1/PuraVidaDelivery/PuraVidaDelivery.Android/obj/Debug/lp/114/jl/files.cache
 /Users/roxywilliams/Documents/GitHub/PuraVidaDelivery1/PuraVidaDelivery/PuraVidaDelivery.Android/obj/Debug/lp/115/jl/files.cache
-/Users/roxywilliams/Documents/GitHub/PuraVidaDelivery1/PuraVidaDelivery/PuraVidaDelivery.Android/obj/Debug/lp/120/jl/files.cache
+/Users/roxywilliams/Documents/GitHub/PuraVidaDelivery1/PuraVidaDelivery/PuraVidaDelivery.Android/obj/Debug/lp/116/jl/files.cache
+/Users/roxywilliams/Documents/GitHub/PuraVidaDelivery1/PuraVidaDelivery/PuraVidaDelivery.Android/obj/Debug/lp/117/jl/files.cache
+/Users/roxywilliams/Documents/GitHub/PuraVidaDelivery1/PuraVidaDelivery/PuraVidaDelivery.Android/obj/Debug/lp/122/jl/files.cache
 /Users/roxywilliams/Documents/GitHub/PuraVidaDelivery1/PuraVidaDelivery/PuraVidaDelivery.Android/obj/Debug/R.txt
 /Users/roxywilliams/Documents/GitHub/PuraVidaDelivery1/PuraVidaDelivery/PuraVidaDelivery.Android/obj/Debug/R.cs.flag
 /Users/roxywilliams/Documents/GitHub/PuraVidaDelivery1/PuraVidaDelivery/PuraVidaDelivery.Android/obj/Debug/PuraVidaDelivery.Android.csproj.CoreCompileInputs.cache
@@ -79,10 +80,12 @@
 /Users/roxywilliams/Documents/GitHub/PuraVidaDelivery1/PuraVidaDelivery/PuraVidaDelivery.Android/obj/Debug/res/drawable/sign_up.jpeg
 /Users/roxywilliams/Documents/GitHub/PuraVidaDelivery1/PuraVidaDelivery/PuraVidaDelivery.Android/obj/Debug/uploadflags.txt
 /Users/roxywilliams/Documents/GitHub/PuraVidaDelivery1/PuraVidaDelivery/PuraVidaDelivery.Android/obj/Debug/resolvedassemblies.hash
+/Users/roxywilliams/Documents/GitHub/PuraVidaDelivery1/PuraVidaDelivery/PuraVidaDelivery.Android/obj/Debug/android/assets/Firebase.dll
 /Users/roxywilliams/Documents/GitHub/PuraVidaDelivery1/PuraVidaDelivery/PuraVidaDelivery.Android/obj/Debug/android/assets/FormsViewGroup.dll
 /Users/roxywilliams/Documents/GitHub/PuraVidaDelivery1/PuraVidaDelivery/PuraVidaDelivery.Android/obj/Debug/android/assets/FormsViewGroup.pdb
 /Users/roxywilliams/Documents/GitHub/PuraVidaDelivery1/PuraVidaDelivery/PuraVidaDelivery.Android/obj/Debug/android/assets/Java.Interop.dll
 /Users/roxywilliams/Documents/GitHub/PuraVidaDelivery1/PuraVidaDelivery/PuraVidaDelivery.Android/obj/Debug/android/assets/Java.Interop.pdb
+/Users/roxywilliams/Documents/GitHub/PuraVidaDelivery1/PuraVidaDelivery/PuraVidaDelivery.Android/obj/Debug/android/assets/LiteDB.dll
 /Users/roxywilliams/Documents/GitHub/PuraVidaDelivery1/PuraVidaDelivery/PuraVidaDelivery.Android/obj/Debug/android/assets/Mono.Android.dll
 /Users/roxywilliams/Documents/GitHub/PuraVidaDelivery1/PuraVidaDelivery/PuraVidaDelivery.Android/obj/Debug/android/assets/Mono.Android.pdb
 /Users/roxywilliams/Documents/GitHub/PuraVidaDelivery1/PuraVidaDelivery/PuraVidaDelivery.Android/obj/Debug/android/assets/Mono.Security.dll
@@ -90,6 +93,7 @@
 /Users/roxywilliams/Documents/GitHub/PuraVidaDelivery1/PuraVidaDelivery/PuraVidaDelivery.Android/obj/Debug/android/assets/mscorlib.dll
 /Users/roxywilliams/Documents/GitHub/PuraVidaDelivery1/PuraVidaDelivery/PuraVidaDelivery.Android/obj/Debug/android/assets/mscorlib.pdb
 /Users/roxywilliams/Documents/GitHub/PuraVidaDelivery1/PuraVidaDelivery/PuraVidaDelivery.Android/obj/Debug/android/assets/netstandard.dll
+/Users/roxywilliams/Documents/GitHub/PuraVidaDelivery1/PuraVidaDelivery/PuraVidaDelivery.Android/obj/Debug/android/assets/Newtonsoft.Json.dll
 /Users/roxywilliams/Documents/GitHub/PuraVidaDelivery1/PuraVidaDelivery/PuraVidaDelivery.Android/obj/Debug/android/assets/PuraVidaDelivery.Android.dll
 /Users/roxywilliams/Documents/GitHub/PuraVidaDelivery1/PuraVidaDelivery/PuraVidaDelivery.Android/obj/Debug/android/assets/PuraVidaDelivery.Android.pdb
 /Users/roxywilliams/Documents/GitHub/PuraVidaDelivery1/PuraVidaDelivery/PuraVidaDelivery.Android/obj/Debug/android/assets/PuraVidaDelivery.dll
@@ -116,7 +120,9 @@
 /Users/roxywilliams/Documents/GitHub/PuraVidaDelivery1/PuraVidaDelivery/PuraVidaDelivery.Android/obj/Debug/android/assets/System.Numerics.Vectors.dll
 /Users/roxywilliams/Documents/GitHub/PuraVidaDelivery1/PuraVidaDelivery/PuraVidaDelivery.Android/obj/Debug/android/assets/System.Numerics.Vectors.pdb
 /Users/roxywilliams/Documents/GitHub/PuraVidaDelivery1/PuraVidaDelivery/PuraVidaDelivery.Android/obj/Debug/android/assets/System.pdb
+/Users/roxywilliams/Documents/GitHub/PuraVidaDelivery1/PuraVidaDelivery/PuraVidaDelivery.Android/obj/Debug/android/assets/System.Reactive.dll
 /Users/roxywilliams/Documents/GitHub/PuraVidaDelivery1/PuraVidaDelivery/PuraVidaDelivery.Android/obj/Debug/android/assets/System.Runtime.dll
+/Users/roxywilliams/Documents/GitHub/PuraVidaDelivery1/PuraVidaDelivery/PuraVidaDelivery.Android/obj/Debug/android/assets/System.Runtime.InteropServices.WindowsRuntime.dll
 /Users/roxywilliams/Documents/GitHub/PuraVidaDelivery1/PuraVidaDelivery/PuraVidaDelivery.Android/obj/Debug/android/assets/System.Runtime.Serialization.dll
 /Users/roxywilliams/Documents/GitHub/PuraVidaDelivery1/PuraVidaDelivery/PuraVidaDelivery.Android/obj/Debug/android/assets/System.Runtime.Serialization.pdb
 /Users/roxywilliams/Documents/GitHub/PuraVidaDelivery1/PuraVidaDelivery/PuraVidaDelivery.Android/obj/Debug/android/assets/System.ServiceModel.Internals.dll
@@ -251,6 +257,9 @@
 /Users/roxywilliams/Documents/GitHub/PuraVidaDelivery1/PuraVidaDelivery/PuraVidaDelivery.Android/obj/Debug/android/assets/Xamarin.Essentials.pdb
 /Users/roxywilliams/Documents/GitHub/PuraVidaDelivery1/PuraVidaDelivery/PuraVidaDelivery.Android/obj/Debug/android/assets/Xamarin.Forms.Core.dll
 /Users/roxywilliams/Documents/GitHub/PuraVidaDelivery1/PuraVidaDelivery/PuraVidaDelivery.Android/obj/Debug/android/assets/Xamarin.Forms.Core.pdb
+/Users/roxywilliams/Documents/GitHub/PuraVidaDelivery1/PuraVidaDelivery/PuraVidaDelivery.Android/obj/Debug/android/assets/Xamarin.Forms.Material.dll
+/Users/roxywilliams/Documents/GitHub/PuraVidaDelivery1/PuraVidaDelivery/PuraVidaDelivery.Android/obj/Debug/android/assets/Xamarin.Forms.Material.pdb
+/Users/roxywilliams/Documents/GitHub/PuraVidaDelivery1/PuraVidaDelivery/PuraVidaDelivery.Android/obj/Debug/android/assets/Xamarin.Forms.PancakeView.dll
 /Users/roxywilliams/Documents/GitHub/PuraVidaDelivery1/PuraVidaDelivery/PuraVidaDelivery.Android/obj/Debug/android/assets/Xamarin.Forms.Platform.Android.dll
 /Users/roxywilliams/Documents/GitHub/PuraVidaDelivery1/PuraVidaDelivery/PuraVidaDelivery.Android/obj/Debug/android/assets/Xamarin.Forms.Platform.Android.pdb
 /Users/roxywilliams/Documents/GitHub/PuraVidaDelivery1/PuraVidaDelivery/PuraVidaDelivery.Android/obj/Debug/android/assets/Xamarin.Forms.Platform.dll
@@ -266,6 +275,8 @@
 /Users/roxywilliams/Documents/GitHub/PuraVidaDelivery1/PuraVidaDelivery/PuraVidaDelivery.Android/obj/Debug/android/assets/Xamarin.Kotlin.StdLib.Jdk8.dll
 /Users/roxywilliams/Documents/GitHub/PuraVidaDelivery1/PuraVidaDelivery/PuraVidaDelivery.Android/obj/Debug/android/assets/Xamarin.KotlinX.Coroutines.Android.dll
 /Users/roxywilliams/Documents/GitHub/PuraVidaDelivery1/PuraVidaDelivery/PuraVidaDelivery.Android/obj/Debug/android/assets/Xamarin.KotlinX.Coroutines.Core.Jvm.dll
+/Users/roxywilliams/Documents/GitHub/PuraVidaDelivery1/PuraVidaDelivery/PuraVidaDelivery.Android/obj/Debug/android/assets/XamarinReactorUI.dll
+/Users/roxywilliams/Documents/GitHub/PuraVidaDelivery1/PuraVidaDelivery/PuraVidaDelivery.Android/obj/Debug/android/assets/XamarinReactorUI.PancakeView.dll
 /Users/roxywilliams/Documents/GitHub/PuraVidaDelivery1/PuraVidaDelivery/PuraVidaDelivery.Android/obj/Debug/android/typemaps.arm64-v8a.ll
 /Users/roxywilliams/Documents/GitHub/PuraVidaDelivery1/PuraVidaDelivery/PuraVidaDelivery.Android/obj/Debug/android/typemaps.armeabi-v7a.ll
 /Users/roxywilliams/Documents/GitHub/PuraVidaDelivery1/PuraVidaDelivery/PuraVidaDelivery.Android/obj/Debug/android/typemaps.x86.ll
@@ -552,6 +563,25 @@
 /Users/roxywilliams/Documents/GitHub/PuraVidaDelivery1/PuraVidaDelivery/PuraVidaDelivery.Android/obj/Debug/android/src/crc64720bb2db43a66fe9/SwitchRenderer.java
 /Users/roxywilliams/Documents/GitHub/PuraVidaDelivery1/PuraVidaDelivery/PuraVidaDelivery.Android/obj/Debug/android/src/crc64720bb2db43a66fe9/TabbedPageRenderer.java
 /Users/roxywilliams/Documents/GitHub/PuraVidaDelivery1/PuraVidaDelivery/PuraVidaDelivery.Android/obj/Debug/android/src/crc64720bb2db43a66fe9/ViewRenderer_2.java
+/Users/roxywilliams/Documents/GitHub/PuraVidaDelivery1/PuraVidaDelivery/PuraVidaDelivery.Android/obj/Debug/android/src/crc647c4c06b10f3352ff/MaterialActivityIndicatorRenderer.java
+/Users/roxywilliams/Documents/GitHub/PuraVidaDelivery1/PuraVidaDelivery/PuraVidaDelivery.Android/obj/Debug/android/src/crc647c4c06b10f3352ff/MaterialButtonRenderer.java
+/Users/roxywilliams/Documents/GitHub/PuraVidaDelivery1/PuraVidaDelivery/PuraVidaDelivery.Android/obj/Debug/android/src/crc647c4c06b10f3352ff/MaterialCheckBoxRenderer.java
+/Users/roxywilliams/Documents/GitHub/PuraVidaDelivery1/PuraVidaDelivery/PuraVidaDelivery.Android/obj/Debug/android/src/crc647c4c06b10f3352ff/MaterialContextThemeWrapper.java
+/Users/roxywilliams/Documents/GitHub/PuraVidaDelivery1/PuraVidaDelivery/PuraVidaDelivery.Android/obj/Debug/android/src/crc647c4c06b10f3352ff/MaterialDatePickerRenderer.java
+/Users/roxywilliams/Documents/GitHub/PuraVidaDelivery1/PuraVidaDelivery/PuraVidaDelivery.Android/obj/Debug/android/src/crc647c4c06b10f3352ff/MaterialEditorRenderer.java
+/Users/roxywilliams/Documents/GitHub/PuraVidaDelivery1/PuraVidaDelivery/PuraVidaDelivery.Android/obj/Debug/android/src/crc647c4c06b10f3352ff/MaterialEntryRenderer.java
+/Users/roxywilliams/Documents/GitHub/PuraVidaDelivery1/PuraVidaDelivery/PuraVidaDelivery.Android/obj/Debug/android/src/crc647c4c06b10f3352ff/MaterialFormsEditText.java
+/Users/roxywilliams/Documents/GitHub/PuraVidaDelivery1/PuraVidaDelivery/PuraVidaDelivery.Android/obj/Debug/android/src/crc647c4c06b10f3352ff/MaterialFormsEditTextBase.java
+/Users/roxywilliams/Documents/GitHub/PuraVidaDelivery1/PuraVidaDelivery/PuraVidaDelivery.Android/obj/Debug/android/src/crc647c4c06b10f3352ff/MaterialFormsTextInputLayout.java
+/Users/roxywilliams/Documents/GitHub/PuraVidaDelivery1/PuraVidaDelivery/PuraVidaDelivery.Android/obj/Debug/android/src/crc647c4c06b10f3352ff/MaterialFormsTextInputLayoutBase.java
+/Users/roxywilliams/Documents/GitHub/PuraVidaDelivery1/PuraVidaDelivery/PuraVidaDelivery.Android/obj/Debug/android/src/crc647c4c06b10f3352ff/MaterialFrameRenderer.java
+/Users/roxywilliams/Documents/GitHub/PuraVidaDelivery1/PuraVidaDelivery/PuraVidaDelivery.Android/obj/Debug/android/src/crc647c4c06b10f3352ff/MaterialPickerEditText.java
+/Users/roxywilliams/Documents/GitHub/PuraVidaDelivery1/PuraVidaDelivery/PuraVidaDelivery.Android/obj/Debug/android/src/crc647c4c06b10f3352ff/MaterialPickerRenderer.java
+/Users/roxywilliams/Documents/GitHub/PuraVidaDelivery1/PuraVidaDelivery/PuraVidaDelivery.Android/obj/Debug/android/src/crc647c4c06b10f3352ff/MaterialPickerTextInputLayout.java
+/Users/roxywilliams/Documents/GitHub/PuraVidaDelivery1/PuraVidaDelivery/PuraVidaDelivery.Android/obj/Debug/android/src/crc647c4c06b10f3352ff/MaterialProgressBarRenderer.java
+/Users/roxywilliams/Documents/GitHub/PuraVidaDelivery1/PuraVidaDelivery/PuraVidaDelivery.Android/obj/Debug/android/src/crc647c4c06b10f3352ff/MaterialSliderRenderer.java
+/Users/roxywilliams/Documents/GitHub/PuraVidaDelivery1/PuraVidaDelivery/PuraVidaDelivery.Android/obj/Debug/android/src/crc647c4c06b10f3352ff/MaterialStepperRenderer.java
+/Users/roxywilliams/Documents/GitHub/PuraVidaDelivery1/PuraVidaDelivery/PuraVidaDelivery.Android/obj/Debug/android/src/crc647c4c06b10f3352ff/MaterialTimePickerRenderer.java
 /Users/roxywilliams/Documents/GitHub/PuraVidaDelivery1/PuraVidaDelivery/PuraVidaDelivery.Android/obj/Debug/android/src/crc649318c5b99684ff93/MainActivity.java
 /Users/roxywilliams/Documents/GitHub/PuraVidaDelivery1/PuraVidaDelivery/PuraVidaDelivery.Android/obj/Debug/android/src/crc64a0e0a82d0db9a07d/AccelerometerListener.java
 /Users/roxywilliams/Documents/GitHub/PuraVidaDelivery1/PuraVidaDelivery/PuraVidaDelivery.Android/obj/Debug/android/src/crc64a0e0a82d0db9a07d/ActivityLifecycleContextListener.java
@@ -580,6 +610,9 @@
 /Users/roxywilliams/Documents/GitHub/PuraVidaDelivery1/PuraVidaDelivery/PuraVidaDelivery.Android/obj/Debug/android/src/crc64ee486da937c010f4/ImageRenderer.java
 /Users/roxywilliams/Documents/GitHub/PuraVidaDelivery1/PuraVidaDelivery/PuraVidaDelivery.Android/obj/Debug/android/src/crc64ee486da937c010f4/LabelAppCompatRenderer.java
 /Users/roxywilliams/Documents/GitHub/PuraVidaDelivery1/PuraVidaDelivery/PuraVidaDelivery.Android/obj/Debug/android/src/crc64ee486da937c010f4/LabelRenderer.java
+/Users/roxywilliams/Documents/GitHub/PuraVidaDelivery1/PuraVidaDelivery/PuraVidaDelivery.Android/obj/Debug/android/src/crc64f8908e42fa42e603/PancakeDrawable.java
+/Users/roxywilliams/Documents/GitHub/PuraVidaDelivery1/PuraVidaDelivery/PuraVidaDelivery.Android/obj/Debug/android/src/crc64f8908e42fa42e603/PancakeViewRenderer.java
+/Users/roxywilliams/Documents/GitHub/PuraVidaDelivery1/PuraVidaDelivery/PuraVidaDelivery.Android/obj/Debug/android/src/crc64f8908e42fa42e603/RoundedCornerOutlineProvider.java
 /Users/roxywilliams/Documents/GitHub/PuraVidaDelivery1/PuraVidaDelivery/PuraVidaDelivery.Android/obj/Debug/android/src/mono/android/app/ApplicationRegistration.java
 /Users/roxywilliams/Documents/GitHub/PuraVidaDelivery1/PuraVidaDelivery/PuraVidaDelivery.Android/obj/Debug/android/src/mono/android/support/v4/media/session/MediaSessionCompat_OnActiveChangeListenerImplementor.java
 /Users/roxywilliams/Documents/GitHub/PuraVidaDelivery1/PuraVidaDelivery/PuraVidaDelivery.Android/obj/Debug/android/src/mono/androidx/activity/contextaware/OnContextAvailableListenerImplementor.java
@@ -703,3 +736,20 @@
 /Users/roxywilliams/Documents/GitHub/PuraVidaDelivery1/PuraVidaDelivery/PuraVidaDelivery.Android/obj/Debug/stamp/_GenerateJavaStubs.stamp
 /Users/roxywilliams/Documents/GitHub/PuraVidaDelivery1/PuraVidaDelivery/PuraVidaDelivery.Android/obj/Debug/stamp/_GeneratePackageManagerJava.stamp
 /Users/roxywilliams/Documents/GitHub/PuraVidaDelivery1/PuraVidaDelivery/PuraVidaDelivery.Android/obj/Debug/stamp/_ResolveLibraryProjectImports.stamp
+/Users/roxywilliams/Documents/GitHub/PuraVidaDelivery1/PuraVidaDelivery/PuraVidaDelivery.Android/obj/Debug/stamp/_BuildLibraryImportsCache 2.stamp
+/Users/roxywilliams/Documents/GitHub/PuraVidaDelivery1/PuraVidaDelivery/PuraVidaDelivery.Android/obj/Debug/stamp/_CleanIntermediateIfNeeded 2.stamp
+/Users/roxywilliams/Documents/GitHub/PuraVidaDelivery1/PuraVidaDelivery/PuraVidaDelivery.Android/obj/Debug/stamp/_CompileJava 2.stamp
+/Users/roxywilliams/Documents/GitHub/PuraVidaDelivery1/PuraVidaDelivery/PuraVidaDelivery.Android/obj/Debug/stamp/_CompileJava 3.stamp
+/Users/roxywilliams/Documents/GitHub/PuraVidaDelivery1/PuraVidaDelivery/PuraVidaDelivery.Android/obj/Debug/stamp/_CompileToDalvik 2.stamp
+/Users/roxywilliams/Documents/GitHub/PuraVidaDelivery1/PuraVidaDelivery/PuraVidaDelivery.Android/obj/Debug/stamp/_CompileToDalvik 3.stamp
+/Users/roxywilliams/Documents/GitHub/PuraVidaDelivery1/PuraVidaDelivery/PuraVidaDelivery.Android/obj/Debug/stamp/_ConvertCustomView 2.stamp
+/Users/roxywilliams/Documents/GitHub/PuraVidaDelivery1/PuraVidaDelivery/PuraVidaDelivery.Android/obj/Debug/stamp/_ConvertCustomView 3.stamp
+/Users/roxywilliams/Documents/GitHub/PuraVidaDelivery1/PuraVidaDelivery/PuraVidaDelivery.Android/obj/Debug/stamp/_ConvertResourcesCases 2.stamp
+/Users/roxywilliams/Documents/GitHub/PuraVidaDelivery1/PuraVidaDelivery/PuraVidaDelivery.Android/obj/Debug/stamp/_GenerateJavaStubs 2.stamp
+/Users/roxywilliams/Documents/GitHub/PuraVidaDelivery1/PuraVidaDelivery/PuraVidaDelivery.Android/obj/Debug/stamp/_GenerateJavaStubs 3.stamp
+/Users/roxywilliams/Documents/GitHub/PuraVidaDelivery1/PuraVidaDelivery/PuraVidaDelivery.Android/obj/Debug/stamp/_GeneratePackageManagerJava 2.stamp
+/Users/roxywilliams/Documents/GitHub/PuraVidaDelivery1/PuraVidaDelivery/PuraVidaDelivery.Android/obj/Debug/stamp/_GeneratePackageManagerJava 3.stamp
+/Users/roxywilliams/Documents/GitHub/PuraVidaDelivery1/PuraVidaDelivery/PuraVidaDelivery.Android/obj/Debug/stamp/_ResolveLibraryProjectImports 2.stamp
+/Users/roxywilliams/Documents/GitHub/PuraVidaDelivery1/PuraVidaDelivery/PuraVidaDelivery.Android/obj/Debug/android/assets/PuraVidaDelivery 2.dll
+/Users/roxywilliams/Documents/GitHub/PuraVidaDelivery1/PuraVidaDelivery/PuraVidaDelivery.Android/obj/Debug/android/bin/classes 3.dex
+/Users/roxywilliams/Documents/GitHub/PuraVidaDelivery1/PuraVidaDelivery/PuraVidaDelivery.Android/obj/Debug/android/bin/classes2 2.dex

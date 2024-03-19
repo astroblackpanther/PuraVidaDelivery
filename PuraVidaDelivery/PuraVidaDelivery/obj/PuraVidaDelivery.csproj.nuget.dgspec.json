@@ -38,6 +38,10 @@
         "netstandard2.0": {
           "targetAlias": "netstandard2.0",
           "dependencies": {
+            "FirebaseDatabase.net": {
+              "target": "Package",
+              "version": "[4.2.0, )"
+            },
             "NETStandard.Library": {
               "suppressParent": "All",
               "target": "Package",
@@ -51,6 +55,18 @@
             "Xamarin.Forms": {
               "target": "Package",
               "version": "[5.0.0.2622, )"
+            },
+            "Xamarin.Forms.PancakeView": {
+              "target": "Package",
+              "version": "[2.3.0.759, )"
+            },
+            "Xamarin.Forms.Visual.Material": {
+              "target": "Package",
+              "version": "[5.0.0.2622, )"
+            },
+            "XamarinReactorUI.PancakeView": {
+              "target": "Package",
+              "version": "[1.0.133, )"
             }
           },
           "imports": [
@@ -63,7 +79,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "/Users/roxywilliams/Library/Caches/VisualStudio/17.0/MSBuild/2490_3/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/Users/roxywilliams/Library/Caches/VisualStudio/17.0/MSBuild/46964_3/RuntimeIdentifierGraph.json"
         }
       }
     }

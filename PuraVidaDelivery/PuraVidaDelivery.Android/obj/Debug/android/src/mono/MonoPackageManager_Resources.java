@@ -3,8 +3,12 @@ public class MonoPackageManager_Resources {
 	public static String[] Assemblies = new String[]{
 		/* We need to ensure that "PuraVidaDelivery.Android.dll" comes first in this list. */
 		"PuraVidaDelivery.Android.dll",
+		"Firebase.dll",
 		"FormsViewGroup.dll",
+		"LiteDB.dll",
+		"Newtonsoft.Json.dll",
 		"PuraVidaDelivery.dll",
+		"System.Reactive.dll",
 		"Xamarin.AndroidX.Activity.dll",
 		"Xamarin.AndroidX.Annotation.dll",
 		"Xamarin.AndroidX.Annotation.Experimental.dll",
@@ -66,6 +70,8 @@ public class MonoPackageManager_Resources {
 		"Xamarin.AndroidX.ViewPager2.dll",
 		"Xamarin.Essentials.dll",
 		"Xamarin.Forms.Core.dll",
+		"Xamarin.Forms.Material.dll",
+		"Xamarin.Forms.PancakeView.dll",
 		"Xamarin.Forms.Platform.Android.dll",
 		"Xamarin.Forms.Platform.dll",
 		"Xamarin.Forms.Xaml.dll",
@@ -78,6 +84,8 @@ public class MonoPackageManager_Resources {
 		"Xamarin.Kotlin.StdLib.Jdk8.dll",
 		"Xamarin.KotlinX.Coroutines.Android.dll",
 		"Xamarin.KotlinX.Coroutines.Core.Jvm.dll",
+		"XamarinReactorUI.dll",
+		"XamarinReactorUI.PancakeView.dll",
 	};
 	public static String[] Dependencies = new String[]{
 	};

@@ -28,3 +28,5 @@
 /Users/roxywilliams/Documents/GitHub/PuraVidaDelivery1/PuraVidaDelivery/PuraVidaDelivery/obj/Debug/netstandard2.0/PuraVidaDelivery.dll
 /Users/roxywilliams/Documents/GitHub/PuraVidaDelivery1/PuraVidaDelivery/PuraVidaDelivery/obj/Debug/netstandard2.0/refint/PuraVidaDelivery.dll
 /Users/roxywilliams/Documents/GitHub/PuraVidaDelivery1/PuraVidaDelivery/PuraVidaDelivery/obj/Debug/netstandard2.0/PuraVidaDelivery.pdb
+/Users/roxywilliams/Documents/GitHub/PuraVidaDelivery1/PuraVidaDelivery/PuraVidaDelivery/obj/Debug/netstandard2.0/SignInPage.xaml.g.cs
+/Users/roxywilliams/Documents/GitHub/PuraVidaDelivery1/PuraVidaDelivery/PuraVidaDelivery/obj/Debug/netstandard2.0/SignUpSuccess.xaml.g.cs

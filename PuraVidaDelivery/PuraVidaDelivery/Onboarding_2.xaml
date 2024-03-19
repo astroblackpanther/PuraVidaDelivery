@@ -8,7 +8,7 @@
             <Image Source="Onboarding_2.jpeg" Aspect="AspectFill"/>
 
             <!-- Rounded Button -->
-            <Button Text="Siguiente" Clicked="NextButton_Clicked"
+            <Button Text="Siguiente" Clicked="NextButton1_Clicked"
                     BackgroundColor="#E6506E" TextColor="White"
                     FontFamily="BentonSans-BoldRegular" FontSize="16"
                     CornerRadius="25" HorizontalOptions="Center" VerticalOptions="End" Margin="70"
@@ -16,3 +16,4 @@
         </Grid>
     </ContentPage.Content>
 </ContentPage>
+

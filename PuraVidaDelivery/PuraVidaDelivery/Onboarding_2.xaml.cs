@@ -11,9 +11,10 @@ namespace PuraVidaDelivery
 
             // Hide the navigation bar
             NavigationPage.SetHasNavigationBar(this, false);
+
         }
 
-        private async void NextButton_Clicked(object sender, EventArgs e)
+        private async void NextButton1_Clicked(object sender, EventArgs e)
         {
             // Navigate to the next page (Onboarding_3)
             await Navigation.PushAsync(new SignUpPage());
