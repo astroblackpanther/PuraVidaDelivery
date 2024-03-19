@@ -1,33 +1,42 @@
 ﻿<Properties StartupConfiguration="{18DC4A76-C0BF-4EB8-9900-AE42A9C641CC}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.MonoDroid LastDeploySdkVersion="13.2.2.0" />
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="Android.nexus_6p_-_api_33" />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.PuraVidaDelivery.Android Xamarin.HotReload.DebuggerTimeoutException.PuraVidaDelivery.Android.HideInfoBar="True" PreferredExecutionTarget="Android.nexus_6p_-_api_33" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Data/FbQueries.cs">
     <Files>
-      <File FileName="Onboarding_1.xaml" />
-      <File FileName="Onboarding_1.xaml.cs" />
-      <File FileName="Onboarding_2.xaml.cs" />
-      <File FileName="Onboarding_2.xaml" />
-      <File FileName="SignUpPage.xaml" />
-      <File FileName="SignUpPage.xaml.cs" />
-      <File FileName="Data/FbQueries.cs" Line="14" Column="92" />
+      <File FileName="Models/OrdenComprasCli.cs" Line="10" Column="6" />
+      <File FileName="Data/FbQueries.cs" Line="16" Column="27" />
+      <File FileName="Models/HistorialVentas.cs" Line="1" Column="1" />
+      <File FileName="Models/Categoria.cs" Line="11" Column="6" />
+      <File FileName="Models/test.cs" Line="6" Column="16" />
+      <File FileName="Onboarding_2.xaml" Line="1" Column="1" />
+      <File FileName="Onboarding_1.xaml" Line="1" Column="1" />
+      <File FileName="Onboarding_1.xaml.cs" Line="14" Column="1" />
+      <File FileName="Onboarding_2.xaml.cs" Line="11" Column="1" />
+      <File FileName="SignUpPage.xaml" Line="15" Column="1" />
+      <File FileName="SignUpPage.xaml.cs" Line="18" Column="1" />
+      <File FileName="SignInPage.xaml" Line="1" Column="1" />
+      <File FileName="SignInPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="SignUpSuccess.xaml" Line="1" Column="1" />
+      <File FileName="SignUpSuccess.xaml.cs" Line="1" Column="1" />
+      <File FileName="Models/Producto.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="PuraVidaDelivery">
-            <Node name="PuraVidaDelivery">
+          <Node name="PuraVidaDelivery" expanded="True">
+            <Node name="PuraVidaDelivery" expanded="True">
               <Node name="Data" expanded="True" />
-              <Node name="Onboarding_2.xaml" expanded="True" />
+              <Node name="Models" expanded="True" />
             </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.MonoDroid LastDeploySdkVersion="13.2.2.0" />
-  <MonoDevelop.Ide.ItemProperties.PuraVidaDelivery.Android Xamarin.HotReload.DebuggerTimeoutException.PuraVidaDelivery.Android.HideInfoBar="True" PreferredExecutionTarget="Android.nexus_6p_-_api_33" />
-  <Xamarin.Addins.Core.Project ActiveDebugTarget="Android.nexus_6p_-_api_33" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
